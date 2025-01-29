@@ -1,0 +1,21 @@
+20
+59C:\Users\l1f21bsse0411\Downloads\Blogging-Website\README.md133826139417952912 0
+66C:\Users\l1f21bsse0411\Downloads\Blogging-Website\configuration.sh133826139417962887 0
+57C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.github133826139417853187 1
+62C:\Users\l1f21bsse0411\Downloads\Blogging-Website\package.json133826139417982832 0
+60C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.gitignore133826139417903045 0
+66C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.htmlhintrc.json133826139417922997 0
+67C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.stylelintrc.json133826139417932968 0
+65C:\Users\l1f21bsse0411\Downloads\Blogging-Website\styles\blog.css133826140978589724 0
+53C:\Users\l1f21bsse0411\Downloads\Blogging-Website\dev133826147077247708 1
+53C:\Users\l1f21bsse0411\Downloads\Blogging-Website\src133826146598333706 1
+56C:\Users\l1f21bsse0411\Downloads\Blogging-Website\styles133826146780349884 1
+65C:\Users\l1f21bsse0411\Downloads\Blogging-Website\styles\home.css133826146780359351 0
+63C:\Users\l1f21bsse0411\Downloads\Blogging-Website\src\blog.html133826140729963658 0
+67C:\Users\l1f21bsse0411\Downloads\Blogging-Website\styles\styles.css133826139418012753 0
+63C:\Users\l1f21bsse0411\Downloads\Blogging-Website\src\home.html133826146598339888 0
+64C:\Users\l1f21bsse0411\Downloads\Blogging-Website\src\index.html133826139418002899 0
+63C:\Users\l1f21bsse0411\Downloads\Blogging-Website\dev\home.html133826147077227706 0
+67C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.github\workflows133826139417883099 1
+89C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.github\workflows\deploy-validation.yml133826139417863157 0
+86C:\Users\l1f21bsse0411\Downloads\Blogging-Website\.github\workflows\pr-validation.yaml133826139417883099 0
