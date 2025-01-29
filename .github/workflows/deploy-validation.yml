@@ -1,31 +1,32 @@
-name: deploy-development-wf
-on: 
+name: pr-validation-workflow
+on:
   push:
     branches:
       - develop
 jobs:
-  deploy-build-job:
+  build-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone Repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-      - name: Build Website
+      - name: Build Website with Parcel        
         run: npx parcel build "./src/index.html" --dist-dir "./dev" --public-url "./"
-      - name: Upload Artifacts
+      - name: Upload build artifacts
         uses: actions/upload-pages-artifact@v3
-        with:
+        with: 
           path: "./dev"
-          name: "develop-artifact"
+          name: "develop-artifact" 
   deploy-job:
-    needs: deploy-build-job
+    needs: "build-job"
+    environment: "develop-env"
     permissions:
       pages: write
       id-token: write
-    environment: "development"
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy Build Artifacts on Github pages
-        uses: actions/deploy-pages@v3
+      
+      - name: Deploy artifacts on GH Pages        
+        uses: actions/deploy-pages@v4
         with:
           artifact_name: "develop-artifact"
           token: ${{github.token}}
