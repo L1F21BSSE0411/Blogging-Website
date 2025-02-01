@@ -1,0 +1,17 @@
+16
+89C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\README.md133829058717822507 0
+98C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\src\contactUs.html133829068709631569 0
+87C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.github133829058717772601 1
+90C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.gitignore133829058717802477 0
+92C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\package.json133829058717832508 0
+96C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.htmlhintrc.json133829058717812525 0
+96C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\configuration.sh133829058717832508 0
+97C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.stylelintrc.json133829058717812525 0
+83C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\src133829059712466178 1
+86C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\styles133829059841634160 1
+100C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\styles\contactUs.css133829060258373206 0
+97C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\styles\styles.css133829058717862493 0
+94C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\src\index.html133829058717842462 0
+97C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.github\workflows133829058717792541 1
+119C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.github\workflows\deploy-validation.yml133829058717782451 0
+116C:\Users\meahm\Downloads\7Th semester\final\Devops\Assingmnets\Blogging-Website\.github\workflows\pr-validation.yaml133829058717792541 0
